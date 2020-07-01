@@ -1,9 +1,9 @@
 {
-  "name": "cordovarduino",
-  "version": "0.0.10",
+  "name": "bf-cordovarduino",
+  "version": "1.0.0",
   "description": "Cordova plugin to communicate with the android USB serial port",
   "cordova": {
-    "id": "cordovarduino",
+    "id": "bf-cordovarduino",
     "platforms": [
       "android",
       "ubuntu"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xseignard/cordovarduino.git"
+    "url": "git+https://github.com/WalcoFPV/bf-cordovarduino.git"
   },
   "keywords": [
     "serial",
@@ -23,7 +23,7 @@
   "author": "Xavier Seignard <xavier.seignard@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xseignard/cordovarduino/issues"
+    "url": "https://github.com/WalcoFPV/bf-cordovarduino/issues"
   },
-  "homepage": "https://github.com/xseignard/cordovarduino#readme"
+  "homepage": "https://github.com/WalcoFPV/bf-cordovarduino#readme"
 }
